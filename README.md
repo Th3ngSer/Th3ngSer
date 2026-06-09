@@ -1,6 +1,6 @@
 # 💫 About Me:
 # Hi there, I'm Pang Lythong 👋
-I'm a 5th-year IT student at the Institute of Technology of Cambodia (ITC) with a strong focus on backend development and system administration.
+I'm a 4th-year IT student at the Institute of Technology of Cambodia (ITC) with a strong focus on backend development and system administration.
 🔭 I’m currently working on the backend for a Material Xchange Platform using NestJS, and developing a personal QR Menu website.<br><br>🌱 I’m currently learning mobile application development with Flutter, and diving deeper into DevOps tools like Jenkins, Docker, and Sonatype Nexus.<br><br>👯 I’m looking to collaborate on robust backend architectures (NestJS or Spring Boot) and CI/CD pipeline automation.<br><br>🤔 I’m looking for help with mastering advanced Flutter concepts and mobile UI patterns.<br><br>💬 Ask me about backend routing, setting up Ubuntu Linux development environments, or Git/GitHub workflows.<br><br>📫 How to reach me: thongking1280@gmail.com<br><br>⚡ Fun fact: I'm currently gearing up to apply for IT internships this coming July!
 
 
